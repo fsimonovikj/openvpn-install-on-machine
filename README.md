@@ -124,13 +124,3 @@ The script supports these OS and architectures:
 | Oracle Linux 8  | ❌   | ✅    | ❌    | ❔    |
 | Rocky Linux 8   |  ❔  | ✅    |  ❔   | ❔    |
 | AlmaLinux 8     | ❌   | ✅    | ❌    | ❔    |
-
-To be noted:
-
-- It should work on Debian 8+ and Ubuntu 16.04+. But versions not in the table above are not officially supported.
-- The script requires `systemd`.
-- The script is regularly tested against `amd64` only.
-
-## Fork
-
-This script is based on the great work of [Nyr and its contributors](https://github.com/Nyr/openvpn-install).
